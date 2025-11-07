@@ -1,13 +1,13 @@
 ### Hi there 👋, Hey , I am Sarwer
 #### WP Theme Developer
-Hello, This is Golam Sarwer. Web designer and developer from Bangladesh. 
+Hello, This is Md Golam Sarwer. Web designer and developer from Bangladesh. 
 
 Skills: WP / PHP / JS / HTML / CSS
 
 - 🔭 I’m currently working on Aidzone 
 - 🌱 I’m currently learning WP Theme Development 
 - 👯 I’m looking to collaborate on git hub 
-- 💬 Ask me about Wordpress Theme development 
+- 💬 Ask me about WordPress Theme development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sarwer22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarwer1981/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sarwer1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/golam.sarwer/)  
